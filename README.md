@@ -1,7 +1,7 @@
-# Imersão SQL - hashtag Treinamentos
+# Intensivão SQL - hashtag Treinamentos
 
-![Imersão SQL](intensivao.jpg)
+![Intensivão SQL](intensivao.jpg)
 
-Na Imersão de SQL feita pela Hashtag Treinamentos e realizada em 2022 foram abordados conceitos básicos de criação e manipulação de bancos de dados relacionais.
+No Intensivão de SQL feito pela Hashtag Treinamentos e realizado em 2022 foram abordados conceitos básicos de criação e manipulação de bancos de dados relacionais.
 
-Neste repositório estão disponíveis os materiais de estudos da imersão.
+Neste repositório estão disponíveis os materiais de estudos do intensivão.
